@@ -1,0 +1,12 @@
+section {
+  text-align: center;
+}
+
+section div {
+  width: max-content;
+  margin: 0 auto;
+}
+
+pre {
+  text-align: left;
+}
